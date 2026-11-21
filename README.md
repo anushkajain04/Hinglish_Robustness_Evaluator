@@ -389,6 +389,4 @@ While the domain-adapted classical pipeline significantly outperforms the baseli
 - **Degree**: Master of Computer Applications (MCA)
 - **Course**: NLP / Machine Learning Laboratory & Research Seminar (Semester 3)
 =======
-# Hinglish_Robustness_Evaluator
-Analyzing NLP model performance on Hinglish datasets with a focus on code-switching, transliteration, spelling variations, and linguistic noise.
->>>>>>> 50a912c2aebe4d198486ee0fe604f6e37d600c9e
+
